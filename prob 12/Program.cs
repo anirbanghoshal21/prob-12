@@ -10,7 +10,7 @@ namespace prob_12
     {
         static void Main(string[] args)
         {
-            int[] array = { 10, 30, 40, 100, 170 };
+            int[] array = { 10, 30, 40, 100, 170,78 };
             int max = array[0];
             int min = array[0];
             for (int i = 0; i <= array.Length - 1; i++)
